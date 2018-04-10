@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2018-04-03T11:33:12Z" finished-at="2018-04-03T11:33:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2018-04-03T11:33:12Z" finished-at="2018-04-03T11:33:12Z">
+      <class name="tesnglearn1.flowoftestestng">
+        <test-method status="PASS" signature="bsuit()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="bsuit" is-config="true" duration-ms="22" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuit -->
+        <test-method status="PASS" signature="btest()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="btest" is-config="true" duration-ms="2" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method status="PASS" signature="bclass()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="bclass" is-config="true" duration-ms="4" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="login" duration-ms="14" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="aclass()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="aclass" is-config="true" duration-ms="1" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="atest" is-config="true" duration-ms="0" started-at="2018-04-03T17:03:12Z" finished-at="2018-04-03T17:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="asuit()[pri:0, instance:tesnglearn1.flowoftestestng@1810399e]" name="asuit" is-config="true" duration-ms="2" started-at="2018-04-03T17:03:13Z" finished-at="2018-04-03T17:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuit -->
+      </class> <!-- tesnglearn1.flowoftestestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
